@@ -1,0 +1,30 @@
+.App {
+  top: 0;
+  text-align: center;
+  margin: 0;
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  color: #dadada;
+  padding: 5px;
+  background-color: #5f5f5f81;
+  border: solid 1px #5f5f5f00;
+  border-radius: 3px; 
+}
+
+.pickup-line h2 {
+  color: #dadada;
+  padding: 5px;
+  background-color: #5f5f5f81;
+  border: solid 1px #5f5f5f00;
+  border-radius: 3px;
+}
+
